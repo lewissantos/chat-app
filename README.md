@@ -1,4 +1,4 @@
-![Chat App](https://github.com/lewissantos/chat-app/blob/master/public/img/chat-icon.svg)
+![Chat App](https://github.com/lewissantos/chat-app/blob/master/public/img/chat-icon.png)
 # Chat App
 
 This Chat App was created by Leandro Santos.
